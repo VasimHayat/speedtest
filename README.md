@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is to speed test runs automatically, but a lot of events are available to get more info than you need.
 	
 ## Technologies
 Project is created with:
